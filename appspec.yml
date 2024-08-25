@@ -8,7 +8,7 @@ files:
 
 files:
   - source: /src/main/webapp/index.html
-    destination: /opt/tomcat/webapps/ROOT/hello-world-maven/
+    destination: /opt/tomcat/webapps/ROOT/hello-world-maven/index2.html
     overwrite: true
 
 
