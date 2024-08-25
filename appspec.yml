@@ -8,7 +8,7 @@ files:
 
 files:
   - source: /src/main/webapp/index.html
-    destination: /opt/tomcat/webapps/ROOT/hello-world-maven/latest
+    destination: /opt/tomcat/webapps/ROOT/hello-world-maven/
 file_exists_behavior: OVERWRITE
 
 
