@@ -8,7 +8,8 @@ phases:
   build:
     commands:
       - echo Build completed on `date`
-      - echo pwd
+      - cd /home/ec2-user/java-app/java-app-cicd/
+      - echo 'pwd'
       - mvn clean test package
       
 
