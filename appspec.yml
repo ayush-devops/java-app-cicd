@@ -9,7 +9,7 @@ files:
 files:
   - source: /src/main/webapp/index.html
     destination: /opt/tomcat/webapps/ROOT/hello-world-maven/latest/
-    overwrite: true
+file_exists_behavior: OVERWRITE
 
 
 permissions: 
